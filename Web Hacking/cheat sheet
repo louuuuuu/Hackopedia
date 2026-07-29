@@ -19,6 +19,9 @@ ENCODED - > base64 playload -> pop up
     });
 </script>
 
+<iframe src="http://localhost:5000/admin"></iframe>
+
+
 INJECTIONS
 
 php - Smarty

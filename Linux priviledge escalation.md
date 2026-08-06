@@ -1,6 +1,6 @@
 
 ## NOTES
-python -c 'import pty; pty.spawn("/bin/bash")' (for interactiveshell)
+python3 -c 'import pty; pty.spawn("/bin/bash")' (for interactiveshell)
 
 sudo su
 
